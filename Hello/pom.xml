@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<atguigu.spring.version>4.1.1.RELEASE</atguigu.spring.version>
+		<atguigu.spring.version>4.2.7.RELEASE</atguigu.spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
